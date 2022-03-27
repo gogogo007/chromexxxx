@@ -1,4 +1,4 @@
-# -chromium-
+# 修改后的chromium浏览器
 可以代理window,document  
 百度云 链接：https://pan.baidu.com/s/1jJG1aZQi2pUnnAVnlDKT1g?pwd=bd80 提取码：bd80  
 window_tao_，document_tao_对象原来的window，document 
